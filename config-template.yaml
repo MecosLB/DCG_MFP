@@ -1,0 +1,9 @@
+snowflake:
+  connection:
+    user: YOUR_USER
+    password: YOUR_PASS
+    account: YOUR_ACCOUNT
+    warehouse: COMPUTE_WH
+    database: TEST_DB
+    schema: PUBLIC
+  table: DROPZONE_TABLE
