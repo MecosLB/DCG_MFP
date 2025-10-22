@@ -1,9 +1,0 @@
-snowflake:
-  connection:
-    user: MecosLB
-    password: Srdr.snowflake1
-    account: CYHEXIO-RLC80683
-    warehouse: COMPUTE_WH
-    database: DIGI_DATABASE
-    schema: MFP
-  table: CARDSETS
